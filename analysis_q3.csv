@@ -1,0 +1,5 @@
+region,orders,revenue,avg_order_value,avg_delivery_days,avg_rating,revenue_rank
+West,1289,1345582.16,1043.9,6.08,2.96,1
+North,1276,1281508.45,1004.32,6.12,2.99,2
+South,1208,1246640.9,1031.99,6.17,2.97,3
+East,1227,1236044.23,1007.37,6.1,2.97,4

@@ -1,0 +1,4 @@
+payment_method,orders,order_share_pct,revenue,avg_order_value,avg_rating
+Card,2270,45.4,2366248.2,1042.4,3.02
+COD,1774,35.48,1788408.44,1008.12,2.94
+Wallet,956,19.12,955119.1,999.08,2.93

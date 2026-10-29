@@ -1,0 +1,5 @@
+frequency_band,customers,revenue,avg_revenue_per_customer
+1 order,39,36803.19,943.67
+2-3 orders,240,639214.47,2663.39
+4-6 orders,465,2391508.44,5143.03
+7+ orders,245,2042249.64,8335.71

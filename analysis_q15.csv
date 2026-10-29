@@ -1,0 +1,6 @@
+segment,customers,avg_recency_days,avg_orders,revenue,revenue_share_pct
+Champions,269,291.0,7.26,2134634.33,41.78
+Loyal high-value,153,1313.0,6.64,1150661.6,22.52
+Needs attention,299,1858.0,3.27,790408.16,15.47
+Recent / promising,225,322.0,3.98,780113.92,15.27
+At risk (high value),43,1747.0,3.67,253957.73,4.97
